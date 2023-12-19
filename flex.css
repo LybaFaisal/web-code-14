@@ -22,26 +22,57 @@ a:hover{
     /* display: flex; */
     background-color: #FFD1E3;
 }
-#div1{
+.div1{
     /* background-color: #F5CCA0; */
     margin-left: 60px;
     font-size: 45px;
     margin-top: 25px ;
     color: #422581;
 }
-#main{
+.main{
     align-items: center;
     justify-content: center;
-    height: 500px;
+    height: 600px;
 }
-#div2{
+.div2{
     margin-left: 150px;
     margin-top: 80px;
 }
- #lorem{
+.lorem{
     font-size: 17px;
     color: #5D3587;
  }
 #contact{
     color: #A367B1;
+}
+#h12{
+    font-size: 45px;
+    color: #422581;
+    margin-left: 150px;
+}
+#secondmain{
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+.secondpage{
+    background-color:#D988B9;
+}
+.courses{
+    font-size: 20px;
+    color: #FFE4D6;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+.heading{
+    color: #79155B;
+}
+.heading:hover{
+    color: #FFD1E3;
+}
+#heading2{
+    color: #79155B;
+}
+#heading2:hover{
+    color: #A2678A;
 }
