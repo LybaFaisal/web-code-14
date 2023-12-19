@@ -1,0 +1,47 @@
+.flexcontainer{
+    display: flex;
+    background-color: #A367B1;
+    justify-content: space-around;
+     height: 100px;
+     
+}
+div.flex{
+   color: #FFD1E3; 
+   background-color: #A367B1;
+   padding: 0px 8px 0px 8px;
+   font-size: 32px;
+}
+a{
+    text-decoration: none;
+    color: #FAF0E6;
+}
+a:hover{
+    color:deepskyblue;
+}
+.mainpage{
+    /* display: flex; */
+    background-color: #FFD1E3;
+}
+#div1{
+    /* background-color: #F5CCA0; */
+    margin-left: 60px;
+    font-size: 45px;
+    margin-top: 25px ;
+    color: #422581;
+}
+#main{
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+#div2{
+    margin-left: 150px;
+    margin-top: 80px;
+}
+ #lorem{
+    font-size: 17px;
+    color: #5D3587;
+ }
+#contact{
+    color: #A367B1;
+}
